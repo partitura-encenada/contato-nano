@@ -1,0 +1,4 @@
+# Usuário e senha do servidor do NANO: nunca versionar.
+nano_config.json
+
+__pycache__/
